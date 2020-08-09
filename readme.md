@@ -1,6 +1,8 @@
 # Numpy Introduction and Coding
 
-## Visit YouTube Videos [heySushil](https://www.youtube.com/channel/UCphs2JfmIClR62wbyf76HDg)
+## Visit my YouTube Channel aur subscribe karna na bhulna [heySushil](https://www.youtube.com/channel/UCphs2JfmIClR62wbyf76HDg)
+
+## NumPy YouTube Video Playlist [NumPy Playlist](https://www.youtube.com/watch?v=5Gv-M1mc1C8&list=PLK6wiPavf7QhptzzEb7ZuSoF7mPrT_m1a)
 
 1. numpy is libray
 1. numpy was intorduced in 2005
