@@ -1,6 +1,8 @@
 # Poisson Distribution
 
 '''
+Ek specific time me kisi bhi event ki hone ke chanse ko nikalne ke liye poisson distribution ka use hota hai.
+
 Jab koi din me 2 bar khana kha raha hai to kya probability banti hai ki wo din me 3rd time khana kahayega ya nahi?
 
 random me possion method me follow hone wale arguments:
