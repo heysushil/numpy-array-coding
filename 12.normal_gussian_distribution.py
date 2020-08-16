@@ -21,11 +21,12 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # getNomalMatrix = r.normal(size=(2, 3))
-getNomalMatrix = r.normal(loc=1, scale=1, size=10)
+getNomalMatrix = r.normal(loc=1010, scale=2, size=(1000))
 
-sns.distplot(r.normal(loc=5, scale=1,size=1000), hist=False)
+# sns.distplot(r.normal(loc=5, scale=1,size=1000), hist=False)
+sns.distplot(r.normal(loc=1010, scale=20, size=(1000)), hist=False)
 
-print('\ngetNomalMatrix: \n',getNomalMatrix)
+# print('\ngetNomalMatrix: \n',getNomalMatrix)
 
 plt.show()
 
