@@ -1,7 +1,7 @@
 # Logistic Distribution
 
 '''
-IMP Points
+Logistic Distribution using Numpy array with matplotlib and seaborn by hey sushil:
 
 1. ye growth ko show karne ke liye use hota hai.
 2. ye bahot jaruri hai because aage chal ke ye ml aur neural networking me use hoga.

@@ -1,4 +1,6 @@
 '''
+Multinomial Distribution using Numpy random module and matplotlib.pylot by hey sushil:
+
 Multinomial Distribution ka use binomial distribution jaisa hi hai but binomial distribution kewal 2 event ke liye work karta hai.
 
 Jaise ki 0 ya 1 ya fir is case me baat kare to head ya teal ke liye.

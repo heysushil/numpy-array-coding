@@ -1,5 +1,5 @@
 '''
-Exponential Distribution using NumPy and Matplotlib.pyplot:
+Exponential Distribution using NumPy and Matplotlib.pyplot by hey sushil:
 
 Jab kabhi bhi next event ke hone ke time ko pata karne ki baat ho tab Exponential Distribution ka use kar ke probability nikali jati hai.
 
