@@ -1,5 +1,5 @@
 '''
-Chi Square Distribution using NumPy Array and Matplotlib.pyplotP:
+Chi Square Distribution using NumPy Array and Matplotlib.pyplot:
 
 Chi Square Distribution ka use kiya jata hai jab ek jaise 2 chijo ke beach me realtion nikalna ho tab is distribution ka use kiya jata hai.
 
