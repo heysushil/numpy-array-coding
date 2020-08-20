@@ -46,12 +46,12 @@ import seaborn as sns
 zipf = r.zipf(a=2, size=(1000))
 # print('\n',zipf)
 # print('\n',zipf[zipf<10]);exit()
-sns.distplot(zipf[zipf<20], kde=False)
+sns.distplot(zipf, hist=False)
 
 plt.xlabel('Rank X')
 plt.ylabel('Frequencey Y')
 plt.title('Zipf Distribution')
-plt.xlim(0,100)
-plt.ylim(0,100)
+# plt.xlim(0,100)
+# plt.ylim(0,100)
 
 plt.show()
