@@ -1,5 +1,5 @@
 '''
-Beta distribution using matplotlib.pyplot, numpy.random module and seaborn librarys by hey sushil:
+Beta distribution using matplotlib.pyplot, numpy.random module and seaborn librarys by hey sushil (Chaudhary Sushil):
 
 Probability theory ke andar aur statistics me isko continuous probability distribution familiy me rakha gaya hai.
 
