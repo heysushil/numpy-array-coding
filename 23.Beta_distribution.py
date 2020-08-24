@@ -31,6 +31,9 @@ numpy.random.beta method arguments:
 a: Float or array like float values and non-negative (for Alpha)
 b: Float or array like float values and non-negative (for Beta)
 size: int or tuple of int values in return
+
+Reference Links:
+1. https://en.wikipedia.org/wiki/Beta_distribution
 '''
 
 import numpy.random as r
